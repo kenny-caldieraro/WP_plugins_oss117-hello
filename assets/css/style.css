@@ -1,0 +1,22 @@
+#wpadminbar .oss117-hello .ab-item:before {
+  width: 20px;
+  height: 20px;
+  content: '';
+  background: url(../images/oss117.png) center center / cover !important;
+  padding-right: 5px;
+}
+
+#wpadminbar .oss117-hello .ab-item {
+  background-color: #f77404;
+  text-align: center;
+  width: 100% !important;
+}
+
+#wpadminbar .oss117-hello .ab-item-link {
+  color: #fff;
+  width: 100% !important;
+}
+
+#wpadminbar .oss117-hello .ab-item:hover {
+  background-color: #c0392b;
+}
